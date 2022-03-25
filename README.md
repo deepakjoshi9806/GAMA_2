@@ -1,2 +1,2 @@
 # hackShipRocket
-use this repo to push code for the hackathon
+this repo contains code regarding shiprocket hackathon, statement 2
